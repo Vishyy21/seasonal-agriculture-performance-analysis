@@ -1,4 +1,4 @@
-Season,farms,avg_yield_tonnes_ha,median_yield_tonnes_ha
-Kharif,1779,5.64,1.95
-Rabi,1627,5.08,1.66
-Zaid,594,4.67,1.45
+Season,farms,avg_yield_tonnes_ha,median_yield_tonnes_ha,avg_profit_inr,avg_water_used_m3,avg_water_efficiency_t_per_1000m3,avg_disease_pest_risk_pct
+Kharif,1779,5.64,1.95,178914.65,6102.2,5.89,54.47
+Rabi,1627,5.08,1.66,87689.47,5846.99,5.19,40.48
+Zaid,594,4.67,1.45,-24804.82,6419.89,4.41,38.22
