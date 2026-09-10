@@ -33,16 +33,20 @@ Key areas covered include:
 - Irrigation performance differs by season; the analysis compares irrigation methods using the provided data.
 - Sugarcane and Chilli stand out for average profitability in the analyzed dataset.
 
-### Project Files
-- `Seasonal_Agriculture_Performance_Analysis.ipynb` — complete analysis notebook
-- `seasonal_agriculture_performance_dataset (2).csv` — original project dataset
-- `seasonal_summary.csv` — corrected seasonal summary table
+### Visualizations
+The `charts/` folder contains six generated visualizations:
 - `01_average_yield_by_season.png` — average yield by season
 - `02_average_profit_by_season.png` — average profit by season
 - `03_water_efficiency_by_season.png` — average water efficiency by season
 - `04_yield_distribution_boxplot.png` — yield distribution by season
 - `05_irrigation_season_yield.png` — irrigation method and seasonal yield comparison
 - `06_profit_by_crop.png` — top crops by average profit
+
+### Project Files
+- `Seasonal_Agriculture_Performance_Analysis.ipynb` — complete analysis notebook
+- `seasonal_agriculture_performance_dataset (2).csv` — original project dataset
+- `seasonal_summary.csv` — corrected seasonal summary table
+- `charts/` — generated visualizations
 - `requirements.txt` — Python dependencies
 - `PROJECT_INFO.txt` — project metadata
 
