@@ -1,0 +1,5 @@
+Project: Seasonal Agriculture Performance Analysis
+Program: VOIS AICTE Batch 1 2026–2027 Major Project
+Analysis focus: Seasonal agricultural performance
+Seasons: Kharif, Rabi, Zaid
+Dataset records: 4000
